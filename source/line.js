@@ -1,6 +1,7 @@
-import { isEquals, getTransform } from './helper'
-import React, { PropTypes, Component } from 'react'
-import { StyleSheet, View } from 'react-native'
+import { isEquals, getTransform } from './helper';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+import { StyleSheet, View } from 'react-native';
 
 export default class Line extends Component {
     constructor(props) {
