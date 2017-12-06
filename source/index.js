@@ -1,5 +1,6 @@
-import * as helper from './helper'
-import React, { PropTypes, Component } from 'react'
+import * as helper from './helper';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import {
     StyleSheet,
     Dimensions,
